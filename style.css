@@ -6,7 +6,7 @@ body{
 .orange{
     color: orange;
 }
-section{
+.flexibal-conteinar{
     display: flex;
     margin-bottom: 150px;
 }
